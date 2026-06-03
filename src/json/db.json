@@ -1,32 +1,142 @@
 [
     {
-        "id": "B_nq7VTJZds",
-        "title": "As paisagens do mundo",
-        "cover": "https://img.youtube.com/vi/B_nq7VTJZds/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=B_nq7VTJZds"
+        "id": "e5A0ZJcHfig",
+        "title": "Real Madrid x Bayern",
+        "cover": "https://img.youtube.com/vi/e5A0ZJcHfig/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=e5A0ZJcHfig",
+        "Category": "Champions League"
     },
     {
-        "id": "8PjBddZ2cdo",
-        "title": "Paisagens e suas transformações",
-        "cover": "https://img.youtube.com/vi/8PjBddZ2cdo/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8PjBddZ2cdo"
+        "id": "etHcWGAroew",
+        "title": "França x Argentina",
+        "cover": "https://img.youtube.com/vi/etHcWGAroew/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=etHcWGAroew",
+        "Category": "Copa do Mundo"
     },
     {
-        "id": "yqZsBn5Z1xc",
-        "title": "Paisagem Geográfica e Espaço Geográfico",
-        "cover": "https://img.youtube.com/vi/yqZsBn5Z1xc/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yqZsBn5Z1xc"
+        "id": "Ak7m0sX7giE",
+        "title": "Juventus x Barcelona",
+        "cover": "https://img.youtube.com/vi/Ak7m0sX7giE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ak7m0sX7giE",
+        "Category": "Champions League"
     },
     {
-        "id": "ee15tCw1kYo",
-        "title": "Espaço, Lugar e Território",
-        "cover": "https://img.youtube.com/vi/ee15tCw1kYo/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ee15tCw1kYo"
+        "id": "hQ01th1G1AE",
+        "title": "Flamengo x Chelsea",
+        "cover": "https://img.youtube.com/vi/hQ01th1G1AE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hQ01th1G1AE",
+        "Category": "Copa do Mundo de Clubes"
     },
     {
-        "id": "YzBkkC2SXxM",
-        "title": "Formas de representação da Terra: os mapas",
-        "cover": "https://img.youtube.com/vi/YzBkkC2SXxM/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YzBkkC2SXxM"
+        "id": "zeJ3KpmgIwA",
+        "title": "Flamengo x River Plate",
+        "cover": "https://img.youtube.com/vi/zeJ3KpmgIwA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zeJ3KpmgIwA",
+        "Category": "Libertadores"
+    },
+    {
+        "id": "DUzadwWJ_Gg",
+        "title": "Flamengo x Palmeiras",
+        "cover": "https://img.youtube.com/vi/DUzadwWJ_Gg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DUzadwWJ_Gg",
+        "Category": "Libertadores"
+    },
+    {
+        "id": "GZcNJgeb0uE",
+        "title": "Flamengo x Gremio",
+        "cover": "https://img.youtube.com/vi/GZcNJgeb0uE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GZcNJgeb0uE",
+        "Category": "Libertadores"
+    },
+    {
+        "id": "eEYxYXJBzR8",
+        "title": "Gremio x Boca Juniors",
+        "cover": "https://img.youtube.com/vi/eEYxYXJBzR8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eEYxYXJBzR8",
+        "Category": "Libertadores"
+    },
+    {
+        "id": "3YtvCTtJOKk",
+        "title": "Santos x Bolivar",
+        "cover": "https://img.youtube.com/vi/3YtvCTtJOKk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3YtvCTtJOKk",
+        "Category": "Libertadores"
+    },
+    {
+        "id": "0Nvt0NzTMfA",
+        "title": "Brasil x Servia",
+        "cover": "https://img.youtube.com/vi/0Nvt0NzTMfA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0Nvt0NzTMfA",
+        "Category": "Copa do Mundo"
+    },
+    {
+        "id": "bh6TpEqD7DY",
+        "title": "Japão x Espanha",
+        "cover": "https://img.youtube.com/vi/bh6TpEqD7DY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bh6TpEqD7DY",
+        "Category": "Copa do Mundo"
+    },
+    {
+        "id": "ipb1eF0JsIU",
+        "title": "Brasil x Coreia do Sul",
+        "cover": "https://img.youtube.com/vi/ipb1eF0JsIU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ipb1eF0JsIU",
+        "Category": "Copa do Mundo"
+    },
+    {
+        "id": "jm97ljHnJpk",
+        "title": "Marrocos x França",
+        "cover": "https://img.youtube.com/vi/jm97ljHnJpk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jm97ljHnJpk",
+        "Category": "Copa do Mundo"
+    },
+    {
+        "id": "NpxUlyPYxdE",
+        "title": "Barcelona x Atletico de Madrid",
+        "cover": "https://img.youtube.com/vi/NpxUlyPYxdE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NpxUlyPYxdE",
+        "Category": "Champions League"
+    },
+    {
+        "id": "b45Dr-Fpe4o",
+        "title": "PSG x Liverpool",
+        "cover": "https://img.youtube.com/vi/b45Dr-Fpe4o/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=b45Dr-Fpe4o",
+        "Category": "Champions League"
+    },
+    {
+        "id": "Dfwwhy1UPuE",
+        "title": "Bayern x Real Madrid",
+        "cover": "https://img.youtube.com/vi/Dfwwhy1UPuE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Dfwwhy1UPuE",
+        "Category": "Champions League"
+    },
+    {
+        "id": "nqDEwQ8pHWs",
+        "title": "Palmeiras x Chelsea",
+        "cover": "https://img.youtube.com/vi/nqDEwQ8pHWs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nqDEwQ8pHWs",
+        "Category": "Copa do Mundo de Clubes"
+    },
+    {
+        "id": "ju46MAPUuUQ",
+        "title": "Real Madrid x Borussia Dortmund",
+        "cover": "https://img.youtube.com/vi/ju46MAPUuUQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ju46MAPUuUQ",
+        "Category": "Copa do Mundo de Clubes"
+    },
+    {
+        "id": "TZurYFml4ow",
+        "title": "PSG x Real Madrid",
+        "cover": "https://img.youtube.com/vi/TZurYFml4ow/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TZurYFml4ow",
+        "Category": "Copa do Mundo de Clubes"
+    },
+    {
+        "id": "Q0SGAUkXJNo",
+        "title": "Chelsea x PSG",
+        "cover": "https://img.youtube.com/vi/Q0SGAUkXJNo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Q0SGAUkXJNo",
+        "Category": "Copa do Mundo de Clubes"
     }
 ]
